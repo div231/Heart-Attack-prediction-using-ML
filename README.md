@@ -13,4 +13,3 @@ This project aims to predict heart attack risk using a dataset of 303 patient re
 
 **Conclusion**: Logistic Regression is the most effective model for heart attack risk prediction. Future improvements include outlier handling, feature selection, and hyperparameter tuning to enhance performance in this clinically relevant machine learning pipeline.
 
-*Word count: 300*
